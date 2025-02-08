@@ -9,7 +9,7 @@ on:
 env:
   applicationfolder: spring-boot-hello-world-example
   AWS_REGION: us-east-1
-  S3BUCKET: borda-stack001-webappdeploymentbucket-v7c4mvka7xmw
+  S3BUCKET: codedeploystack-webappdeploymentbucket-nejqcakroy4y
 
 
 jobs:
